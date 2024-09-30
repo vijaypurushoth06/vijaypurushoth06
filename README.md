@@ -1,5 +1,6 @@
 <h3 align="left">Hi 👋, I'm Vijay Purushoth</h3>
 <h4 align="left">A passionate Developer from India who's dabbling into new frameworks and technologies related to full-stack development.</h4>
+- 📫 How to reach me **vijaypurushoth70@gmail.com**
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
