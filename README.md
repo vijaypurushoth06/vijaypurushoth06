@@ -1,7 +1,6 @@
 <h3 align="left">Hi 👋, I'm Vijay Purushoth</h3>
 <h4 align="left">A passionate Developer from India who's dabbling into new frameworks and technologies related to full-stack development.</h4>
-- 📫 How to reach me **vijaypurushoth70@gmail.com**
-
+- 📫 How to reach me mailto:vijaypurushoth70@gmail.com?
 <h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://twitter.com/pro_insomaniac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pro_insomaniac" height="30" width="40" /></a>
